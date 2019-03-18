@@ -1,0 +1,19 @@
+{
+  "rates" : [
+    "AED",
+    "BOB",
+    "EGP",
+    "COP",
+    "FJD",
+    "EUR",
+    "CUC",
+    "CUP",
+    "BLA"
+  ],
+  "url" : [
+    "data.fixer.io/api/latest?access_key=*****&format=1",
+    "http://data.fixer.io/api/latest?access_key=*****&format=1",
+    "https://data.fixer.io/api/latest?access_key=*****&format=1",
+    "https://data.fixer.io:80/api/latest?access_key=******&format=1"
+  ]
+}
